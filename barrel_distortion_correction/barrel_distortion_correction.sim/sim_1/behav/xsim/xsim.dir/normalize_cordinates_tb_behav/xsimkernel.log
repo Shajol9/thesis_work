@@ -1,0 +1,7 @@
+Running: xsim.dir/normalize_cordinates_tb_behav/xsimk.exe -simmode gui -wdb normalize_cordinates_tb_behav.wdb -simrunnum 0 -socket 58329
+Design successfully loaded
+Design Loading Memory Usage: 6796 KB (Peak: 6796 KB)
+Design Loading CPU Usage: 0 ms
+Simulation completed
+Simulation Memory Usage: 7632 KB (Peak: 7632 KB)
+Simulation CPU Usage: 0 ms

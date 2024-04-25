@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Webtalk v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Tue Dec 26 20:21:15 2023
+# Process ID: 23792
+# Current directory: C:/Users/shazz/Downloads/NTNU/MS_in_ESD/Masters Thesis/barrel_distortion_correction/barrel_distortion_correction.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source C:/Users/shazz/Downloads/NTNU/MS_in_ESD/Masters Thesis/barrel_distortion_correction/barrel_distortion_correction.sim/sim_1/behav/xsim/xsim.dir/coordinate_correction_system_top_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/Users/shazz/Downloads/NTNU/MS_in_ESD/Masters Thesis/barrel_distortion_correction/barrel_distortion_correction.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: C:/Users/shazz/Downloads/NTNU/MS_in_ESD/Masters Thesis/barrel_distortion_correction/barrel_distortion_correction.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source C:/Users/shazz/Downloads/NTNU/MS_in_ESD/Masters -notrace
+couldn't read file "C:/Users/shazz/Downloads/NTNU/MS_in_ESD/Masters": permission denied
+INFO: [Common 17-206] Exiting Webtalk at Tue Dec 26 20:21:15 2023...

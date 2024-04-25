@@ -1,0 +1,7 @@
+Running: xsim.dir/coordinate_correction_system_top_behav/xsimk.exe -simmode gui -wdb coordinate_correction_system_top_behav.wdb -simrunnum 0 -socket 59439
+Design successfully loaded
+Design Loading Memory Usage: 7308 KB (Peak: 7308 KB)
+Design Loading CPU Usage: 0 ms
+Simulation completed
+Simulation Memory Usage: 8060 KB (Peak: 8060 KB)
+Simulation CPU Usage: 0 ms

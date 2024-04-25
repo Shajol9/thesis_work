@@ -1,0 +1,1 @@
+-wto "d063b8ebc1c343698089d6172563d266" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "unisims_ver" -L "unimacro_ver" -L "secureip" --snapshot "undistroted_pixel_coordinates_tb_behav" "xil_defaultlib.undistroted_pixel_coordinates_tb" "xil_defaultlib.glbl" -log "elaborate.log" 
