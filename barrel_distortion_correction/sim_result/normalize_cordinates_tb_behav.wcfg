@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="undistorted_normalized_cordinate_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="undistorted_normalized_cordinate_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="125478fs"></ZoomEndTime>
+      <Cursor1Time time="293000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="255"></NameColumnWidth>
+      <ValueColumnWidth column_width="162"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="9" />
+   <wvobject fp_name="/undistorted_normalized_cordinate_tb/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/undistorted_normalized_cordinate_tb/reset" type="logic">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/undistorted_normalized_cordinate_tb/x_normalized" type="array">
+      <obj_property name="ElementShortName">x_normalized[31:0]</obj_property>
+      <obj_property name="ObjectShortName">x_normalized[31:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/undistorted_normalized_cordinate_tb/y_normalized" type="array">
+      <obj_property name="ElementShortName">y_normalized[31:0]</obj_property>
+      <obj_property name="ObjectShortName">y_normalized[31:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/undistorted_normalized_cordinate_tb/k_1_b" type="array">
+      <obj_property name="ElementShortName">k_1_b[31:0]</obj_property>
+      <obj_property name="ObjectShortName">k_1_b[31:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/undistorted_normalized_cordinate_tb/k_2_p" type="array">
+      <obj_property name="ElementShortName">k_2_p[31:0]</obj_property>
+      <obj_property name="ObjectShortName">k_2_p[31:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/undistorted_normalized_cordinate_tb/x_undistorted" type="array">
+      <obj_property name="ElementShortName">x_undistorted[31:0]</obj_property>
+      <obj_property name="ObjectShortName">x_undistorted[31:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/undistorted_normalized_cordinate_tb/y_undistorted" type="array">
+      <obj_property name="ElementShortName">y_undistorted[31:0]</obj_property>
+      <obj_property name="ObjectShortName">y_undistorted[31:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/undistorted_normalized_cordinate_tb/unc_done" type="logic">
+      <obj_property name="ElementShortName">unc_done</obj_property>
+      <obj_property name="ObjectShortName">unc_done</obj_property>
+   </wvobject>
+</wave_config>

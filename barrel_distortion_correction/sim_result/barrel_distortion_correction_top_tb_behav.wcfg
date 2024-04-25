@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="barrel_distortion_correction_top_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="barrel_distortion_correction_top_tb" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="114101fs"></ZoomEndTime>
+      <Cursor1Time time="20400fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="255"></NameColumnWidth>
+      <ValueColumnWidth column_width="180"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="9" />
+   <wvobject fp_name="/barrel_distortion_correction_top_tb/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/barrel_distortion_correction_top_tb/height" type="array">
+      <obj_property name="ElementShortName">height[31:0]</obj_property>
+      <obj_property name="ObjectShortName">height[31:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/barrel_distortion_correction_top_tb/width" type="array">
+      <obj_property name="ElementShortName">width[31:0]</obj_property>
+      <obj_property name="ObjectShortName">width[31:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/barrel_distortion_correction_top_tb/x" type="array">
+      <obj_property name="ElementShortName">x[31:0]</obj_property>
+      <obj_property name="ObjectShortName">x[31:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/barrel_distortion_correction_top_tb/y" type="array">
+      <obj_property name="ElementShortName">y[31:0]</obj_property>
+      <obj_property name="ObjectShortName">y[31:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/barrel_distortion_correction_top_tb/k_1" type="array">
+      <obj_property name="ElementShortName">k_1[31:0]</obj_property>
+      <obj_property name="ObjectShortName">k_1[31:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/barrel_distortion_correction_top_tb/k_2" type="array">
+      <obj_property name="ElementShortName">k_2[31:0]</obj_property>
+      <obj_property name="ObjectShortName">k_2[31:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/barrel_distortion_correction_top_tb/out_x" type="array">
+      <obj_property name="ElementShortName">out_x[31:0]</obj_property>
+      <obj_property name="ObjectShortName">out_x[31:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/barrel_distortion_correction_top_tb/out_y" type="array">
+      <obj_property name="ElementShortName">out_y[31:0]</obj_property>
+      <obj_property name="ObjectShortName">out_y[31:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+</wave_config>
